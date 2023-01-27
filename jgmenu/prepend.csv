@@ -1,0 +1,18 @@
+@icon,,18,17,16,16,0,left,top,#7AA2F7,#7AA2F7,/usr/share/exodia/jgmenu/MenuIcons/search.png
+@search,,42,15,150,20,2,left,top,#c0caf5,#7aa2f7,search ...
+
+Terminal,alacritty,/usr/share/exodia/jgmenu/MenuIcons/terminal.png
+
+PowerShell,bsp-powershell,/usr/share/exodia/jgmenu/MenuIcons/PowerShell.png
+
+Web Browser,google-chrome-stable,/usr/share/exodia/jgmenu/MenuIcons/web-browser.png
+
+File manager,thunar,/usr/share/exodia/jgmenu/MenuIcons/file-manager.png
+
+Text Editor,geany,/usr/share/exodia/jgmenu/MenuIcons/edit-note.png
+
+Music Player,vlc
+
+^sep()
+Applications,^checkout(lx-apps),/usr/share/exodia/jgmenu/MenuIcons/applications.png
+
